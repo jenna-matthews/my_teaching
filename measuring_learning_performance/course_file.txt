@@ -1,1 +1,5 @@
-
+This repo contains files and notes related to the ITLS 4160 Measuring Learning and Performance course.
+My first time teaching this course was Spring semester of 2024 - at that iteration it had three main sections/objectives:
+1. Systems analysis - including root cause analysis, gap analysis, and other methods
+2. Psychometrics - specifically classical test theory (CTT) and item response theory (IRT)
+3. Learning Analytics
