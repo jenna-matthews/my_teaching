@@ -1,1 +1,13 @@
+This is one of the most difficult concepts in CTT. 
+Here is my explanation (in my own words):
+The point biserial correlation compares getting an individual question correct with scoring highly on the test overall. A high correlation means that students who get that item correct are very likely to score well on the test. A correlation of 0 means that there is no relationship between a learner's score on that item and their score on the test. It is possible for the two (item & test) to be negatively correlated, which means that doing well on the item correlates with a poor overall test score.  
+Point biserial correlation (PBC) is very similar to discrimination index. The key difference is the population the metric uses. PBC uses every test taker while Discrimination index uses the top & bottom groups.
+^^ My explanation – added to Canvas
 
+
+Good source: https://uc.powerschool-docs.com/performance-matters/latest/understand-the-statistics 
+
+* difficulty level is calculated by dividing the number of correct responses by the number of test-takers
+* discrimination index uses the top/bottom group of scores for the population and compares the score on the item to the score on the test overall
+* distractors are 'good' if they are equally likely to be picked by a test-taker that doesn't know the answer. A distractor that is never picked isn't a good distractor and should be removed/replaced.
+* PBC uses ALL the test results and compares the score on the item to the score on the test overall.
