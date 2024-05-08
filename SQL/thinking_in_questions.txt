@@ -1,0 +1,36 @@
+*Goal = 800 words*  
+Thinking in Questions
+We are swimming in data – but the knowledge is lost in translation.
+One of my favorite teachers was my French teacher (and volleyball coach – it was a small town) in my freshman year of high school.  Apart from the language, the concepts he taught still are stuck in my head.  One of these concepts was that you could tell you were becoming fluent in a language when you started to think in the language.  I still love that measure of fluency. It works for analytics too – in order to be a true analyst, you need to think in questions.
+
+In my first year of teaching I designed a course in programming logic and design. The course taught object-oriented programming concepts but was completely language agnostic. I taught, and students worked, in a pseudocode because the focus was on conceptual understanding of the process of object-oriented programming with the knowledge that syntax-specific rules would be easy to learn and apply once the concepts were firmly understood.  
+
+The purpose isn’t to teach a specific language or tool. Computing in general, and analytics in particular, changes far too quickly for that. The idea is to teach the understanding and thought processes behind analysis, knowing that tips, tricks, and syntax-specific rules are freely available in print, blog, tutorial, and other sources. The languages, tools, and libraries I use for data engineering & data analysis today are not the same ones I was using 4 months ago.  Because of these changes, I usually avoid recommending specific languages to beginners.  However, one thing I recommend to students, mentees, and anyone else who will listen is a study of relational data models.
+Relational data models are not a language – although the concept is often included in courses on SQL (which is a language).  Structured Query Language (SQL) requires data in a relational format, but relational data models can exist independent of the language used to access the data. Relational data modeling is about the way data relate to each other.  Relationships are represented as connections between the different data types.  These relationships are based on shared attributes – usually defined in terms of primary and foreign keys – between the data sets. In a way, it’s similar to systems thinking in the emphasis on connecting different data points into a holistic group.  
+
+Data is not information – and neither data nor information is knowledge.
+
+Data are around us all the time – and everything we do generates more.  Each datum (singular form of data) is like a single point on a page.  If there are few enough data, or the viewer has lots of experience, it is sometimes possible to see the pattern from the data alone.
+
+Now, however, the data are rarely so few.  Institutions and individuals have designed bases, warehouses, and lakes to store the data. A variety of systems have been built and regulated to control the intake, storage, and accessibility of the data. The systems are there, and constantly refined and augmented. Rules and processes are learnt and quizzed and memorized by aspiring analysts, engineers, and statisticians. 
+
+
+
+[insert pics here]
+
+For more complicated data sets, however, we need to connect the dots of data before we can see the picture (information) that the data create.  Connecting these data requires a higher-level view.  Sometimes this perspective is called systems thinking, sometimes it’s called subject-matter or business expertise.  Whatever it is called – it is about putting the data points in context.  If you have this context, you know what questions to ask.
+A conceptual understanding of relational data models is invaluable for analytics.  This understanding allows you to create a map of the different data points and their relationship so that you can map the path of the question as a sort of connect-the-dots exercise.  
+
+If you understand relational data models, you know how to ask the questions. Understanding relational data models gives you the grammatical and syntactical rules to create questions.  You understand the structure of data - how different points relate to each other - so you can map out the path of a question.
+
+By using relational data models, you can turn data into information.  Putting that information in context turns the information into knowledge. 
+
+
+The data are out there. Every interaction from social media through education creates a data link. Every tweet, post, favorite, highlight, and text creates a connection between entities with metadata holding the date, time, direction, device, and destination. 
+
+As humans, we’ve already asked a lot of the basic questions and found the answers. Data, and questions written some time ago, can tell banks whether we should get a loan, or tell stores what we would be most likely to purchase.
+
+What we need now are the questions. The simple questions have already been asked - we can add more data, more refining touches, to their processes, but the creation work is done here. 
+The challenge now isn’t a new data source, or a new storage system, but new questions. 
+We are subjects of an odd riddle, having the data of the world and needing questions to ask of it. The computing systems have been built to track, harvest, store, and query the data. We may find answers to any question. Now we just need the questions. 
+
