@@ -1,0 +1,12 @@
+The assignment “Calculating Performance Metrics” needs additional clarity around what methods (CTT vs IRT) are meant to be used and a reminder about how students should be grouped to calculate those metrics.
+
+Also this is a good breakdown:
+https://real-statistics.com/reliability/item-analysis/calculations-item-analysis/
+
+https://real-statistics.com/reliability/item-analysis/item-analysis-basic-concepts/
+
+^^ definitely use both of these if I teach a class like this again
+
+----
+
+Also, students have indicated (see survey results) that it would be helpful to have some videos to explain the different concepts/modules.
