@@ -1,0 +1,35 @@
+
+Analytics as Question Design
+
+It’s time to reframe analytics as question design - thinking in questions.
+
+
+Requirements of Analysis
+Analysis requires two things - data and questions. Data are no use without questions. Questions extract the data and make them useful. So many questions have already been asked - and then answered. Data, and questions written some time ago, can tell banks whether we should get a loan or browsers what results we might click. They reveal patterns and feed recommendations for everything from movies to music, from e-commerce to employment. 
+
+Systems Thinking
+Institutions and individuals have designed bases, warehouses, and lakes to store the data - with pipelines to fill them up from other sources. A variety of systems have been built and regulated to control the intake, storage, and accessibility of the data. The systems are there, and constantly refined and augmented. 
+
+Systems thinking is about the relationship between different parts - it’s about seeing the world as a composite, holistic unit - rather than a connection of disparate and unrelated parts of the whole. 
+
+Overall I avoid focusing on specific languages or tools - everything changes too quickly for that to be relevant for long - but I always advise students, mentees, anyone who will listen to study relational data modeling.  Often this is taught as part of a course in SQL (structured query language) but it is a key concept apart from any language.  
+
+Relational Data Modeling is about the way data relate to each other - and, despite the name, doesn’t require that the data are stored in a relational database.  What is required is defined connections - relationships - between the different types of data.  Understanding the way these connections function enables you to design questions. 
+
+We are drowning in data 
+The data already exist. Every interaction from social media through education creates a data link. Every tweet, post, favorite, highlight, and search creates a connection between entities with metadata holding the date, time, direction, device, and destination. 
+
+We already have the data to solve the problems - the data already exist - we need questions - well-designed questions - to get answers and solutions from the existing data.
+
+- but it’s lost in translation
+A favorite teacher in high school told me that you had gotten to the next level - studying foreign languages - when you thought in that language.  If the thought came as easily (or more so) in Portuguese or French as it would in English.  To become a true analyst - you need to think in questions.
+
+Understanding relational data models gives you the grammatical and syntactical rules to create questions.  You understand the structure of data - how different points relate to each other - so you can map out the path of a question.
+
+(next post)
+Design Thinking
+Design thinking is about a creative and holistic approach to problem-solving.  It involves identifying the problem, the tools and resources, and then collaboratively building and testing solutions. 
+The first step is to put together a complete description of the problem. 
+Design thinking emphasizes a focus on the user - so we need to define what we are seeking, why it matters, and how we will know when we have found it. What do we not know now that we are trying to learn? What attributes or events would tell us? How would we know?
+
+
