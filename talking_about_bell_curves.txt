@@ -1,0 +1,8 @@
+some ideas for ways to teach/talk about bell curves:
+... bifurcated (see Jay Lynch 2022 LAK paper) 
+... normal where it shouldn't be normal (see Jurassic Park (book) graph of compy size)
+
+what do you expect to see in the data? 
+should it be normal?
+should it have a single peak? 
+should the peak move over time?
